@@ -1,0 +1,11 @@
+
+yolo3/__pycache__/
+test_data/VOC2007/
+logs/000/
+*.h5
+*.weights
+\.idea/
+venv/
+*.npz
+
+__pycache__/
